@@ -19,6 +19,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0053-maximum-subarray](https://github.com/Simran-Keshri03/LeetCode/tree/master/0053-maximum-subarray) |
 | [0238-product-of-array-except-self](https://github.com/Simran-Keshri03/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Simran-Keshri03/LeetCode/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0867-transpose-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Simran-Keshri03/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Two Pointers
 |  |
@@ -56,4 +57,12 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Simran-Keshri03/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
