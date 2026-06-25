@@ -7,6 +7,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Simran-Keshri03/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0875-koko-eating-bananas](https://github.com/Simran-Keshri03/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Interactive
 |  |
 | ------- |
@@ -20,6 +21,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0238-product-of-array-except-self](https://github.com/Simran-Keshri03/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Simran-Keshri03/LeetCode/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/Simran-Keshri03/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Simran-Keshri03/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Two Pointers
 |  |
