@@ -108,6 +108,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Simran-Keshri03/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Simran-Keshri03/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/Simran-Keshri03/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/Simran-Keshri03/LeetCode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Simran-Keshri03/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Design
@@ -118,4 +119,5 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Simran-Keshri03/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/Simran-Keshri03/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
