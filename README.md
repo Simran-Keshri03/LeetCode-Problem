@@ -37,6 +37,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0011-container-with-most-water](https://github.com/Simran-Keshri03/LeetCode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Simran-Keshri03/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Simran-Keshri03/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0141-linked-list-cycle](https://github.com/Simran-Keshri03/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Simran-Keshri03/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
@@ -81,6 +82,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Simran-Keshri03/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Simran-Keshri03/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Simran-Keshri03/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -105,6 +107,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Simran-Keshri03/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/Simran-Keshri03/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0707-design-linked-list](https://github.com/Simran-Keshri03/LeetCode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Simran-Keshri03/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Design
