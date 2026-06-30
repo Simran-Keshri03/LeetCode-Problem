@@ -38,6 +38,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0031-next-permutation](https://github.com/Simran-Keshri03/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Simran-Keshri03/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Simran-Keshri03/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Simran-Keshri03/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Simran-Keshri03/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Simran-Keshri03/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -69,6 +70,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Simran-Keshri03/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Simran-Keshri03/LeetCode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Simran-Keshri03/LeetCode/tree/master/0148-sort-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -104,6 +106,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Simran-Keshri03/LeetCode/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Simran-Keshri03/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/Simran-Keshri03/LeetCode/tree/master/0645-set-mismatch) |
@@ -115,6 +118,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Simran-Keshri03/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Simran-Keshri03/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Simran-Keshri03/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Simran-Keshri03/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Simran-Keshri03/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Simran-Keshri03/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/Simran-Keshri03/LeetCode/tree/master/0707-design-linked-list) |
@@ -136,4 +140,5 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Simran-Keshri03/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Simran-Keshri03/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
