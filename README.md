@@ -66,6 +66,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Simran-Keshri03/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Simran-Keshri03/LeetCode/tree/master/0053-maximum-subarray) |
 ## Sliding Window
 |  |
@@ -108,6 +109,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Simran-Keshri03/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Simran-Keshri03/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Simran-Keshri03/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Simran-Keshri03/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Simran-Keshri03/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -123,4 +125,12 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Simran-Keshri03/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Simran-Keshri03/LeetCode/tree/master/0206-reverse-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Simran-Keshri03/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Simran-Keshri03/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
