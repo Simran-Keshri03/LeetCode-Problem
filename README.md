@@ -121,6 +121,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0148-sort-list](https://github.com/Simran-Keshri03/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Simran-Keshri03/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Simran-Keshri03/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Simran-Keshri03/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/Simran-Keshri03/LeetCode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Simran-Keshri03/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Design
