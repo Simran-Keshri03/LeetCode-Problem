@@ -50,6 +50,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Simran-Keshri03/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Simran-Keshri03/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -142,4 +143,8 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Simran-Keshri03/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Simran-Keshri03/LeetCode/tree/master/0148-sort-list) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Simran-Keshri03/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
