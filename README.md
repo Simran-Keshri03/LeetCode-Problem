@@ -28,6 +28,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Simran-Keshri03/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Simran-Keshri03/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0506-relative-ranks](https://github.com/Simran-Keshri03/LeetCode/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/Simran-Keshri03/LeetCode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Simran-Keshri03/LeetCode/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0867-transpose-matrix) |
@@ -115,6 +116,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0268-missing-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Simran-Keshri03/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0506-relative-ranks](https://github.com/Simran-Keshri03/LeetCode/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/Simran-Keshri03/LeetCode/tree/master/0645-set-mismatch) |
 ## Linked List
 |  |
@@ -145,6 +147,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Simran-Keshri03/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0506-relative-ranks](https://github.com/Simran-Keshri03/LeetCode/tree/master/0506-relative-ranks) |
 ## Merge Sort
 |  |
 | ------- |
