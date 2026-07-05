@@ -34,6 +34,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0724-find-pivot-index](https://github.com/Simran-Keshri03/LeetCode/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Simran-Keshri03/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1046-last-stone-weight](https://github.com/Simran-Keshri03/LeetCode/tree/master/1046-last-stone-weight) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Simran-Keshri03/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Two Pointers
 |  |
@@ -152,6 +153,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0023-merge-k-sorted-lists](https://github.com/Simran-Keshri03/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/Simran-Keshri03/LeetCode/tree/master/0506-relative-ranks) |
+| [1046-last-stone-weight](https://github.com/Simran-Keshri03/LeetCode/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
