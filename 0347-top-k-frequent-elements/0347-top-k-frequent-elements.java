@@ -8,16 +8,23 @@ class Solution {
         for (int num : nums) {
             map.put(num, map.getOrDefault(num, 0) + 1);
         }
-        PriorityQueue<Integer> pq = new PriorityQueue<>((a, b) -> map.get(a) - map.get(b));
-        for (int num : map.keySet()) {
-            pq.add(num);
-            if (pq.size() > k) {
-                pq.poll();
-            }
+
+        List<Integer>[] bucket = new ArrayList[nums.length + 1];
+        for (int freq = 0; freq <= nums.length; freq++) {
+            bucket[freq] = new ArrayList<>();
         }
-        int[] ans = new int[k];
-        for (int i = k - 1; i >= 0; i--) {
-            ans[i] = pq.poll();
+        for (int key : map.keySet()) {   //putting into the buckets with high frequency 
+            int freq = map.get(key);
+            bucket[freq].add(key);
+        }
+        int[] ans = new int[k];   //high frequency buckets
+        int idx = 0;
+        for (int i = nums.length; i >= 0 && idx < k; i--) {
+            for (int num : bucket[i]) {
+                ans[idx++] = num;
+                if (idx == k)
+                    break;
+            }
         }
         return ans;
     }
