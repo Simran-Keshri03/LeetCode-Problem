@@ -20,6 +20,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | ------- |
 | [0011-container-with-most-water](https://github.com/Simran-Keshri03/LeetCode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Simran-Keshri03/LeetCode/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/Simran-Keshri03/LeetCode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Simran-Keshri03/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Simran-Keshri03/LeetCode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Simran-Keshri03/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -99,6 +100,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Simran-Keshri03/LeetCode/tree/master/0036-valid-sudoku) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0867-transpose-matrix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0867-transpose-matrix) |
 ## Simulation
@@ -109,6 +111,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Simran-Keshri03/LeetCode/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/Simran-Keshri03/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/Simran-Keshri03/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Simran-Keshri03/LeetCode/tree/master/0141-linked-list-cycle) |
