@@ -35,6 +35,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0455-assign-cookies](https://github.com/Simran-Keshri03/LeetCode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Simran-Keshri03/LeetCode/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/Simran-Keshri03/LeetCode/tree/master/0645-set-mismatch) |
+| [0661-image-smoother](https://github.com/Simran-Keshri03/LeetCode/tree/master/0661-image-smoother) |
 | [0692-top-k-frequent-words](https://github.com/Simran-Keshri03/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/Simran-Keshri03/LeetCode/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0867-transpose-matrix) |
@@ -102,6 +103,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | ------- |
 | [0036-valid-sudoku](https://github.com/Simran-Keshri03/LeetCode/tree/master/0036-valid-sudoku) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0661-image-smoother](https://github.com/Simran-Keshri03/LeetCode/tree/master/0661-image-smoother) |
 | [0867-transpose-matrix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
