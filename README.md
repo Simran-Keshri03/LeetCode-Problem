@@ -200,6 +200,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0032-longest-valid-parentheses](https://github.com/Simran-Keshri03/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Simran-Keshri03/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0692-top-k-frequent-words](https://github.com/Simran-Keshri03/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0709-to-lower-case](https://github.com/Simran-Keshri03/LeetCode/tree/master/0709-to-lower-case) |
 ## Queue
 |  |
 | ------- |
