@@ -22,6 +22,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0031-next-permutation](https://github.com/Simran-Keshri03/LeetCode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Simran-Keshri03/LeetCode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Simran-Keshri03/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Simran-Keshri03/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Simran-Keshri03/LeetCode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Simran-Keshri03/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Simran-Keshri03/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -102,6 +103,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Simran-Keshri03/LeetCode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Simran-Keshri03/LeetCode/tree/master/0048-rotate-image) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0661-image-smoother](https://github.com/Simran-Keshri03/LeetCode/tree/master/0661-image-smoother) |
 | [0867-transpose-matrix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0867-transpose-matrix) |
@@ -128,6 +130,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Simran-Keshri03/LeetCode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
