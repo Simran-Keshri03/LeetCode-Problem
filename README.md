@@ -10,6 +10,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Simran-Keshri03/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/Simran-Keshri03/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Simran-Keshri03/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Simran-Keshri03/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -140,6 +141,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | ------- |
 | [0048-rotate-image](https://github.com/Simran-Keshri03/LeetCode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Simran-Keshri03/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
 | ------- |
