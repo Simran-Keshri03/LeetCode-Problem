@@ -107,6 +107,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Simran-Keshri03/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Simran-Keshri03/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Simran-Keshri03/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Simran-Keshri03/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Matrix
 |  |
@@ -139,6 +140,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0268-missing-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Simran-Keshri03/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Simran-Keshri03/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Simran-Keshri03/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Simran-Keshri03/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Simran-Keshri03/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Simran-Keshri03/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -230,6 +232,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0076-minimum-window-substring](https://github.com/Simran-Keshri03/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Simran-Keshri03/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Simran-Keshri03/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Simran-Keshri03/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Simran-Keshri03/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Simran-Keshri03/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/Simran-Keshri03/LeetCode/tree/master/0709-to-lower-case) |
