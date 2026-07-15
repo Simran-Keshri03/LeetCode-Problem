@@ -65,6 +65,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0287-find-the-duplicate-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Simran-Keshri03/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Simran-Keshri03/LeetCode/tree/master/0455-assign-cookies) |
+| [0541-reverse-string-ii](https://github.com/Simran-Keshri03/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Simran-Keshri03/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
@@ -240,6 +241,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0387-first-unique-character-in-a-string](https://github.com/Simran-Keshri03/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Simran-Keshri03/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Simran-Keshri03/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0541-reverse-string-ii](https://github.com/Simran-Keshri03/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0692-top-k-frequent-words](https://github.com/Simran-Keshri03/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/Simran-Keshri03/LeetCode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Simran-Keshri03/LeetCode/tree/master/0796-rotate-string) |
