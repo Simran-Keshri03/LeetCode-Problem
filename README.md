@@ -80,6 +80,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0032-longest-valid-parentheses](https://github.com/Simran-Keshri03/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Simran-Keshri03/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0232-implement-queue-using-stacks](https://github.com/Simran-Keshri03/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Simran-Keshri03/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -126,6 +127,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | ------- |
 | [0067-add-binary](https://github.com/Simran-Keshri03/LeetCode/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0867-transpose-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Simran-Keshri03/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Simran-Keshri03/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Hash Table
 |  |
@@ -239,6 +241,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0692-top-k-frequent-words](https://github.com/Simran-Keshri03/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/Simran-Keshri03/LeetCode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Simran-Keshri03/LeetCode/tree/master/0796-rotate-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Simran-Keshri03/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Queue
 |  |
 | ------- |
