@@ -233,6 +233,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0020-valid-parentheses](https://github.com/Simran-Keshri03/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Simran-Keshri03/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Simran-Keshri03/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Simran-Keshri03/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Simran-Keshri03/LeetCode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Simran-Keshri03/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Simran-Keshri03/LeetCode/tree/master/0242-valid-anagram) |
