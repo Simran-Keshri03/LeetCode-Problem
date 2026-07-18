@@ -157,6 +157,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0451-sort-characters-by-frequency](https://github.com/Simran-Keshri03/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/Simran-Keshri03/LeetCode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Simran-Keshri03/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Simran-Keshri03/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
 | ------- |
@@ -255,6 +256,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0709-to-lower-case](https://github.com/Simran-Keshri03/LeetCode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Simran-Keshri03/LeetCode/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Simran-Keshri03/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Simran-Keshri03/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Simran-Keshri03/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Queue
 |  |
