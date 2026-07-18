@@ -52,6 +52,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0875-koko-eating-bananas](https://github.com/Simran-Keshri03/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1046-last-stone-weight](https://github.com/Simran-Keshri03/LeetCode/tree/master/1046-last-stone-weight) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Simran-Keshri03/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1748-sum-of-unique-elements](https://github.com/Simran-Keshri03/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Simran-Keshri03/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Two Pointers
 |  |
@@ -157,6 +158,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0451-sort-characters-by-frequency](https://github.com/Simran-Keshri03/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/Simran-Keshri03/LeetCode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Simran-Keshri03/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [1748-sum-of-unique-elements](https://github.com/Simran-Keshri03/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Simran-Keshri03/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
@@ -299,6 +301,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0387-first-unique-character-in-a-string](https://github.com/Simran-Keshri03/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Simran-Keshri03/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Simran-Keshri03/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [1748-sum-of-unique-elements](https://github.com/Simran-Keshri03/LeetCode/tree/master/1748-sum-of-unique-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
