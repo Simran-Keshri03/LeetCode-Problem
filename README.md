@@ -31,6 +31,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0073-set-matrix-zeroes](https://github.com/Simran-Keshri03/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Simran-Keshri03/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Simran-Keshri03/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Simran-Keshri03/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Simran-Keshri03/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Simran-Keshri03/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -147,6 +148,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0037-sudoku-solver](https://github.com/Simran-Keshri03/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Simran-Keshri03/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Simran-Keshri03/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/Simran-Keshri03/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Simran-Keshri03/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Simran-Keshri03/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Simran-Keshri03/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -331,4 +333,8 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Simran-Keshri03/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Simran-Keshri03/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
