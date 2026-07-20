@@ -54,6 +54,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0867-transpose-matrix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Simran-Keshri03/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1046-last-stone-weight](https://github.com/Simran-Keshri03/LeetCode/tree/master/1046-last-stone-weight) |
+| [1260-shift-2d-grid](https://github.com/Simran-Keshri03/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Simran-Keshri03/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1748-sum-of-unique-elements](https://github.com/Simran-Keshri03/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Simran-Keshri03/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -136,11 +137,13 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0661-image-smoother](https://github.com/Simran-Keshri03/LeetCode/tree/master/0661-image-smoother) |
 | [0867-transpose-matrix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/Simran-Keshri03/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Simran-Keshri03/LeetCode/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/Simran-Keshri03/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Simran-Keshri03/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Simran-Keshri03/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Hash Table
