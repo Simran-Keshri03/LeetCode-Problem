@@ -31,6 +31,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0073-set-matrix-zeroes](https://github.com/Simran-Keshri03/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Simran-Keshri03/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Simran-Keshri03/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Simran-Keshri03/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Simran-Keshri03/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Simran-Keshri03/LeetCode/tree/master/0217-contains-duplicate) |
@@ -66,6 +67,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Simran-Keshri03/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Simran-Keshri03/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Simran-Keshri03/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Simran-Keshri03/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Simran-Keshri03/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Simran-Keshri03/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Simran-Keshri03/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -192,6 +194,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Simran-Keshri03/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Simran-Keshri03/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Simran-Keshri03/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Simran-Keshri03/LeetCode/tree/master/0217-contains-duplicate) |
