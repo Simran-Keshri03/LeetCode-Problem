@@ -192,6 +192,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0204-count-primes](https://github.com/Simran-Keshri03/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Simran-Keshri03/LeetCode/tree/master/0367-valid-perfect-square) |
+| [1492-the-kth-factor-of-n](https://github.com/Simran-Keshri03/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Simran-Keshri03/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
@@ -352,6 +353,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Simran-Keshri03/LeetCode/tree/master/0204-count-primes) |
+| [1492-the-kth-factor-of-n](https://github.com/Simran-Keshri03/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Simran-Keshri03/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Union-Find
 |  |
