@@ -37,6 +37,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Simran-Keshri03/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Simran-Keshri03/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Simran-Keshri03/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0204-count-primes](https://github.com/Simran-Keshri03/LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Simran-Keshri03/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Simran-Keshri03/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Simran-Keshri03/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -188,6 +189,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | ------- |
 | [0048-rotate-image](https://github.com/Simran-Keshri03/LeetCode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Simran-Keshri03/LeetCode/tree/master/0067-add-binary) |
+| [0204-count-primes](https://github.com/Simran-Keshri03/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Simran-Keshri03/LeetCode/tree/master/0367-valid-perfect-square) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Simran-Keshri03/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -349,9 +351,14 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Simran-Keshri03/LeetCode/tree/master/0204-count-primes) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Simran-Keshri03/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Simran-Keshri03/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Simran-Keshri03/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
