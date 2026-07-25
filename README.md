@@ -310,14 +310,17 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Simran-Keshri03/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Simran-Keshri03/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Simran-Keshri03/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -370,4 +373,8 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Simran-Keshri03/LeetCode/tree/master/0204-count-primes) |
+## Depth-First Search
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
