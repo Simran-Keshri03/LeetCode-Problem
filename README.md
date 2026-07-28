@@ -192,6 +192,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Simran-Keshri03/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Simran-Keshri03/LeetCode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Simran-Keshri03/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Simran-Keshri03/LeetCode/tree/master/0069-sqrtx) |
