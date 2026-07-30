@@ -361,6 +361,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | ------- |
 | [0022-generate-parentheses](https://github.com/Simran-Keshri03/LeetCode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Simran-Keshri03/LeetCode/tree/master/0037-sudoku-solver) |
+| [0077-combinations](https://github.com/Simran-Keshri03/LeetCode/tree/master/0077-combinations) |
 ## String Matching
 |  |
 | ------- |
