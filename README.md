@@ -328,6 +328,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0100-same-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Simran-Keshri03/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -338,6 +339,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0100-same-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Simran-Keshri03/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -396,8 +398,13 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0100-same-tree) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Simran-Keshri03/LeetCode/tree/master/0877-stone-game) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
