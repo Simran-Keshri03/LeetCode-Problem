@@ -64,6 +64,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0867-transpose-matrix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Simran-Keshri03/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Simran-Keshri03/LeetCode/tree/master/0877-stone-game) |
+| [0912-sort-an-array](https://github.com/Simran-Keshri03/LeetCode/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Simran-Keshri03/LeetCode/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/Simran-Keshri03/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Simran-Keshri03/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -141,6 +142,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0148-sort-list](https://github.com/Simran-Keshri03/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Simran-Keshri03/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Simran-Keshri03/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Simran-Keshri03/LeetCode/tree/master/0912-sort-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -242,6 +244,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0645-set-mismatch](https://github.com/Simran-Keshri03/LeetCode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Simran-Keshri03/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Simran-Keshri03/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0912-sort-an-array](https://github.com/Simran-Keshri03/LeetCode/tree/master/0912-sort-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Simran-Keshri03/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3731-find-missing-elements](https://github.com/Simran-Keshri03/LeetCode/tree/master/3731-find-missing-elements) |
 ## Linked List
@@ -287,6 +290,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0692-top-k-frequent-words](https://github.com/Simran-Keshri03/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Simran-Keshri03/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Simran-Keshri03/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0912-sort-an-array](https://github.com/Simran-Keshri03/LeetCode/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Simran-Keshri03/LeetCode/tree/master/1046-last-stone-weight) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Simran-Keshri03/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Merge Sort
@@ -294,6 +298,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Simran-Keshri03/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Simran-Keshri03/LeetCode/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/Simran-Keshri03/LeetCode/tree/master/0912-sort-an-array) |
 ## String
 |  |
 | ------- |
@@ -362,6 +367,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0347-top-k-frequent-elements](https://github.com/Simran-Keshri03/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Simran-Keshri03/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Simran-Keshri03/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0912-sort-an-array](https://github.com/Simran-Keshri03/LeetCode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -417,4 +423,12 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0100-same-tree) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Simran-Keshri03/LeetCode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Simran-Keshri03/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
