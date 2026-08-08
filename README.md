@@ -343,6 +343,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0100-same-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -350,12 +351,14 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Simran-Keshri03/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0100-same-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -417,6 +420,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0100-same-tree) |
 ## Game Theory
