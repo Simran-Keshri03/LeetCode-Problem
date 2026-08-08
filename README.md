@@ -189,6 +189,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0268-missing-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Simran-Keshri03/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Simran-Keshri03/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Simran-Keshri03/LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Simran-Keshri03/LeetCode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Simran-Keshri03/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Simran-Keshri03/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -223,6 +224,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0136-single-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/Simran-Keshri03/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Simran-Keshri03/LeetCode/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
@@ -237,6 +239,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0295-find-median-from-data-stream](https://github.com/Simran-Keshri03/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Simran-Keshri03/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/Simran-Keshri03/LeetCode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Simran-Keshri03/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Simran-Keshri03/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Simran-Keshri03/LeetCode/tree/master/0455-assign-cookies) |
@@ -315,6 +318,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0242-valid-anagram](https://github.com/Simran-Keshri03/LeetCode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Simran-Keshri03/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0387-first-unique-character-in-a-string](https://github.com/Simran-Keshri03/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Simran-Keshri03/LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Simran-Keshri03/LeetCode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Simran-Keshri03/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Simran-Keshri03/LeetCode/tree/master/0451-sort-characters-by-frequency) |
