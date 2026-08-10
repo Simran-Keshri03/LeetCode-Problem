@@ -17,6 +17,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Simran-Keshri03/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0875-koko-eating-bananas](https://github.com/Simran-Keshri03/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Simran-Keshri03/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Interactive
 |  |
 | ------- |
@@ -70,6 +71,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Simran-Keshri03/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1748-sum-of-unique-elements](https://github.com/Simran-Keshri03/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Simran-Keshri03/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Simran-Keshri03/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Simran-Keshri03/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Simran-Keshri03/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3731-find-missing-elements](https://github.com/Simran-Keshri03/LeetCode/tree/master/3731-find-missing-elements) |
@@ -125,6 +127,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Simran-Keshri03/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/Simran-Keshri03/LeetCode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Simran-Keshri03/LeetCode/tree/master/0455-assign-cookies) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Simran-Keshri03/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -133,6 +136,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0560-subarray-sum-equals-k](https://github.com/Simran-Keshri03/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Simran-Keshri03/LeetCode/tree/master/0724-find-pivot-index) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Simran-Keshri03/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Simran-Keshri03/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -249,6 +253,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0786-k-th-smallest-prime-fraction](https://github.com/Simran-Keshri03/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0912-sort-an-array](https://github.com/Simran-Keshri03/LeetCode/tree/master/0912-sort-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Simran-Keshri03/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Simran-Keshri03/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3731-find-missing-elements](https://github.com/Simran-Keshri03/LeetCode/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
