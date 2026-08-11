@@ -175,6 +175,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Simran-Keshri03/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Simran-Keshri03/LeetCode/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Simran-Keshri03/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Simran-Keshri03/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -219,6 +220,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0069-sqrtx](https://github.com/Simran-Keshri03/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Simran-Keshri03/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Simran-Keshri03/LeetCode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Simran-Keshri03/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Simran-Keshri03/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0367-valid-perfect-square](https://github.com/Simran-Keshri03/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -419,6 +421,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Simran-Keshri03/LeetCode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Simran-Keshri03/LeetCode/tree/master/0258-add-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/Simran-Keshri03/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Simran-Keshri03/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Union-Find
