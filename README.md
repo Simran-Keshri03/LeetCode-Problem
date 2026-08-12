@@ -74,6 +74,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Simran-Keshri03/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Simran-Keshri03/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Simran-Keshri03/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Simran-Keshri03/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Simran-Keshri03/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3731-find-missing-elements](https://github.com/Simran-Keshri03/LeetCode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -159,6 +160,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0438-find-all-anagrams-in-a-string](https://github.com/Simran-Keshri03/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Simran-Keshri03/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Simran-Keshri03/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Simran-Keshri03/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Matrix
 |  |
 | ------- |
@@ -209,6 +211,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0692-top-k-frequent-words](https://github.com/Simran-Keshri03/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1748-sum-of-unique-elements](https://github.com/Simran-Keshri03/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Simran-Keshri03/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Simran-Keshri03/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Simran-Keshri03/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3731-find-missing-elements](https://github.com/Simran-Keshri03/LeetCode/tree/master/3731-find-missing-elements) |
 ## Math
