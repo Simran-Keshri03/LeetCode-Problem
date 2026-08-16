@@ -32,6 +32,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0042-trapping-rain-water](https://github.com/Simran-Keshri03/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Simran-Keshri03/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Simran-Keshri03/LeetCode/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/Simran-Keshri03/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Simran-Keshri03/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Simran-Keshri03/LeetCode/tree/master/0075-sort-colors) |
@@ -107,6 +108,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0032-longest-valid-parentheses](https://github.com/Simran-Keshri03/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Simran-Keshri03/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Simran-Keshri03/LeetCode/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/Simran-Keshri03/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Simran-Keshri03/LeetCode/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Simran-Keshri03/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0877-stone-game](https://github.com/Simran-Keshri03/LeetCode/tree/master/0877-stone-game) |
@@ -167,6 +169,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0036-valid-sudoku](https://github.com/Simran-Keshri03/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Simran-Keshri03/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Simran-Keshri03/LeetCode/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/Simran-Keshri03/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Simran-Keshri03/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
