@@ -6,6 +6,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Simran-Keshri03/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Simran-Keshri03/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Simran-Keshri03/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -25,6 +26,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Simran-Keshri03/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Simran-Keshri03/LeetCode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Simran-Keshri03/LeetCode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Simran-Keshri03/LeetCode/tree/master/0036-valid-sudoku) |
@@ -146,6 +148,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Simran-Keshri03/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Simran-Keshri03/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Simran-Keshri03/LeetCode/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
