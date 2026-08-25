@@ -81,6 +81,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Simran-Keshri03/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Simran-Keshri03/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Simran-Keshri03/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Simran-Keshri03/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Simran-Keshri03/LeetCode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -224,6 +225,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Simran-Keshri03/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Simran-Keshri03/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Simran-Keshri03/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Simran-Keshri03/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Simran-Keshri03/LeetCode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
