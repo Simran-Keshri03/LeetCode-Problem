@@ -100,6 +100,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0160-intersection-of-two-linked-lists](https://github.com/Simran-Keshri03/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Simran-Keshri03/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0392-is-subsequence](https://github.com/Simran-Keshri03/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Simran-Keshri03/LeetCode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/Simran-Keshri03/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Simran-Keshri03/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -117,6 +118,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0070-climbing-stairs](https://github.com/Simran-Keshri03/LeetCode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Simran-Keshri03/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Simran-Keshri03/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/Simran-Keshri03/LeetCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Simran-Keshri03/LeetCode/tree/master/0877-stone-game) |
 ## Stack
@@ -357,6 +359,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0316-remove-duplicate-letters](https://github.com/Simran-Keshri03/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/Simran-Keshri03/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Simran-Keshri03/LeetCode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Simran-Keshri03/LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Simran-Keshri03/LeetCode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Simran-Keshri03/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Simran-Keshri03/LeetCode/tree/master/0451-sort-characters-by-frequency) |
