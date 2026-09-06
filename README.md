@@ -120,6 +120,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0070-climbing-stairs](https://github.com/Simran-Keshri03/LeetCode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Simran-Keshri03/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Simran-Keshri03/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0338-counting-bits](https://github.com/Simran-Keshri03/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Simran-Keshri03/LeetCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Simran-Keshri03/LeetCode/tree/master/0877-stone-game) |
@@ -262,6 +263,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0136-single-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Simran-Keshri03/LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Simran-Keshri03/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Simran-Keshri03/LeetCode/tree/master/0645-set-mismatch) |
 ## Sorting
