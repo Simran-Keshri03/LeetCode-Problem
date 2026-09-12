@@ -182,6 +182,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0438-find-all-anagrams-in-a-string](https://github.com/Simran-Keshri03/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Simran-Keshri03/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Simran-Keshri03/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Simran-Keshri03/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Matrix
 |  |
@@ -258,6 +259,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0509-fibonacci-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Simran-Keshri03/LeetCode/tree/master/0877-stone-game) |
 | [1492-the-kth-factor-of-n](https://github.com/Simran-Keshri03/LeetCode/tree/master/1492-the-kth-factor-of-n) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Simran-Keshri03/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3871-count-commas-in-range-ii](https://github.com/Simran-Keshri03/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Simran-Keshri03/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -383,6 +385,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Simran-Keshri03/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Simran-Keshri03/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Simran-Keshri03/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Queue
 |  |
 | ------- |
