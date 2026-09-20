@@ -124,6 +124,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0053-maximum-subarray](https://github.com/Simran-Keshri03/LeetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Simran-Keshri03/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Simran-Keshri03/LeetCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Simran-Keshri03/LeetCode/tree/master/0072-edit-distance) |
 | [0119-pascals-triangle-ii](https://github.com/Simran-Keshri03/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Simran-Keshri03/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/Simran-Keshri03/LeetCode/tree/master/0338-counting-bits) |
@@ -375,6 +376,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0058-length-of-last-word](https://github.com/Simran-Keshri03/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Simran-Keshri03/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Simran-Keshri03/LeetCode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/Simran-Keshri03/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Simran-Keshri03/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Simran-Keshri03/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Simran-Keshri03/LeetCode/tree/master/0242-valid-anagram) |
