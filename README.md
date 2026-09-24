@@ -86,6 +86,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Simran-Keshri03/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Simran-Keshri03/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Simran-Keshri03/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Simran-Keshri03/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Simran-Keshri03/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Simran-Keshri03/LeetCode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Simran-Keshri03/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -269,6 +270,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0877-stone-game](https://github.com/Simran-Keshri03/LeetCode/tree/master/0877-stone-game) |
 | [1492-the-kth-factor-of-n](https://github.com/Simran-Keshri03/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Simran-Keshri03/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Simran-Keshri03/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3871-count-commas-in-range-ii](https://github.com/Simran-Keshri03/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Simran-Keshri03/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
