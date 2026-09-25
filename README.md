@@ -385,6 +385,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0076-minimum-window-substring](https://github.com/Simran-Keshri03/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Simran-Keshri03/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Simran-Keshri03/LeetCode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Simran-Keshri03/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/Simran-Keshri03/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/Simran-Keshri03/LeetCode/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/Simran-Keshri03/LeetCode/tree/master/0316-remove-duplicate-letters) |
@@ -423,6 +424,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0100-same-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0101-symmetric-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Simran-Keshri03/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Simran-Keshri03/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Simran-Keshri03/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
@@ -442,6 +444,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0100-same-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0101-symmetric-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Simran-Keshri03/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Simran-Keshri03/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Simran-Keshri03/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
@@ -479,6 +482,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0022-generate-parentheses](https://github.com/Simran-Keshri03/LeetCode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Simran-Keshri03/LeetCode/tree/master/0037-sudoku-solver) |
 | [0077-combinations](https://github.com/Simran-Keshri03/LeetCode/tree/master/0077-combinations) |
+| [0257-binary-tree-paths](https://github.com/Simran-Keshri03/LeetCode/tree/master/0257-binary-tree-paths) |
 ## String Matching
 |  |
 | ------- |
@@ -507,6 +511,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0099-recover-binary-search-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0101-symmetric-tree) |
+| [0257-binary-tree-paths](https://github.com/Simran-Keshri03/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Game Theory
 |  |
 | ------- |
