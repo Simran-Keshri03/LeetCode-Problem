@@ -76,6 +76,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0877-stone-game](https://github.com/Simran-Keshri03/LeetCode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Simran-Keshri03/LeetCode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Simran-Keshri03/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [0997-find-the-town-judge](https://github.com/Simran-Keshri03/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/Simran-Keshri03/LeetCode/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/Simran-Keshri03/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Simran-Keshri03/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -243,6 +244,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0560-subarray-sum-equals-k](https://github.com/Simran-Keshri03/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Simran-Keshri03/LeetCode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Simran-Keshri03/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0997-find-the-town-judge](https://github.com/Simran-Keshri03/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1748-sum-of-unique-elements](https://github.com/Simran-Keshri03/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Simran-Keshri03/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Simran-Keshri03/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -538,4 +540,8 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/Simran-Keshri03/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/Simran-Keshri03/LeetCode/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
