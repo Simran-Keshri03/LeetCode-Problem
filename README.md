@@ -144,6 +144,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0042-trapping-rain-water](https://github.com/Simran-Keshri03/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Simran-Keshri03/LeetCode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Simran-Keshri03/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Simran-Keshri03/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/Simran-Keshri03/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/Simran-Keshri03/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Simran-Keshri03/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -428,6 +429,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0100-same-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0101-symmetric-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Simran-Keshri03/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Simran-Keshri03/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Simran-Keshri03/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Simran-Keshri03/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -448,6 +450,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0100-same-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0101-symmetric-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Simran-Keshri03/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Simran-Keshri03/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Simran-Keshri03/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Simran-Keshri03/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -515,6 +518,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0099-recover-binary-search-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0101-symmetric-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Simran-Keshri03/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Simran-Keshri03/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Game Theory
 |  |
