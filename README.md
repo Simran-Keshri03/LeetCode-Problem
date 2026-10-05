@@ -148,6 +148,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0145-binary-tree-postorder-traversal](https://github.com/Simran-Keshri03/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/Simran-Keshri03/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/Simran-Keshri03/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0856-score-of-parentheses](https://github.com/Simran-Keshri03/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Simran-Keshri03/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Simran-Keshri03/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Simran-Keshri03/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -405,6 +406,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0692-top-k-frequent-words](https://github.com/Simran-Keshri03/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/Simran-Keshri03/LeetCode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Simran-Keshri03/LeetCode/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/Simran-Keshri03/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Simran-Keshri03/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Simran-Keshri03/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Simran-Keshri03/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -572,5 +574,6 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 ## Bracket Sequences
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/Simran-Keshri03/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Simran-Keshri03/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
