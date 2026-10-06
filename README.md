@@ -441,6 +441,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0257-binary-tree-paths](https://github.com/Simran-Keshri03/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Simran-Keshri03/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/Simran-Keshri03/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Simran-Keshri03/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -468,6 +469,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0257-binary-tree-paths](https://github.com/Simran-Keshri03/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Simran-Keshri03/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/Simran-Keshri03/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Simran-Keshri03/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -540,6 +542,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0226-invert-binary-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Simran-Keshri03/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Simran-Keshri03/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Game Theory
 |  |
 | ------- |
@@ -580,4 +583,8 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | ------- |
 | [0856-score-of-parentheses](https://github.com/Simran-Keshri03/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Simran-Keshri03/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
