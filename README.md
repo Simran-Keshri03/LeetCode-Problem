@@ -597,6 +597,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Simran-Keshri03/LeetCode/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Simran-Keshri03/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Simran-Keshri03/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## DP on Trees
