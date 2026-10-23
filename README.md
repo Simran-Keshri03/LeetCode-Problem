@@ -266,6 +266,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Simran-Keshri03/LeetCode/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/Simran-Keshri03/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Simran-Keshri03/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Simran-Keshri03/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Simran-Keshri03/LeetCode/tree/master/0067-add-binary) |
@@ -290,6 +291,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Simran-Keshri03/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Simran-Keshri03/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/0268-missing-number) |
