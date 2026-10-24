@@ -616,4 +616,8 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Simran-Keshri03/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Simran-Keshri03/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
