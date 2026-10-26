@@ -199,6 +199,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0076-minimum-window-substring](https://github.com/Simran-Keshri03/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Simran-Keshri03/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Simran-Keshri03/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Simran-Keshri03/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Simran-Keshri03/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Simran-Keshri03/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Simran-Keshri03/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -247,6 +248,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0387-first-unique-character-in-a-string](https://github.com/Simran-Keshri03/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Simran-Keshri03/LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Simran-Keshri03/LeetCode/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/Simran-Keshri03/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Simran-Keshri03/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Simran-Keshri03/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Simran-Keshri03/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -409,6 +411,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0392-is-subsequence](https://github.com/Simran-Keshri03/LeetCode/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Simran-Keshri03/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Simran-Keshri03/LeetCode/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/Simran-Keshri03/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Simran-Keshri03/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Simran-Keshri03/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/Simran-Keshri03/LeetCode/tree/master/0541-reverse-string-ii) |
