@@ -88,6 +88,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Simran-Keshri03/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Simran-Keshri03/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Simran-Keshri03/LeetCode/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/Simran-Keshri03/LeetCode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Simran-Keshri03/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Simran-Keshri03/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Simran-Keshri03/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -205,6 +206,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Simran-Keshri03/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Simran-Keshri03/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/Simran-Keshri03/LeetCode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Simran-Keshri03/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Simran-Keshri03/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Matrix
