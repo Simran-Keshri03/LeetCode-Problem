@@ -67,6 +67,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0506-relative-ranks](https://github.com/Simran-Keshri03/LeetCode/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/Simran-Keshri03/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Simran-Keshri03/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/Simran-Keshri03/LeetCode/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Simran-Keshri03/LeetCode/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/Simran-Keshri03/LeetCode/tree/master/0661-image-smoother) |
 | [0692-top-k-frequent-words](https://github.com/Simran-Keshri03/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -170,6 +171,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0316-remove-duplicate-letters](https://github.com/Simran-Keshri03/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/Simran-Keshri03/LeetCode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Simran-Keshri03/LeetCode/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/Simran-Keshri03/LeetCode/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Simran-Keshri03/LeetCode/tree/master/0860-lemonade-change) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Simran-Keshri03/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Prefix Sum
