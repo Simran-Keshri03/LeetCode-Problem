@@ -61,6 +61,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0287-find-the-duplicate-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Simran-Keshri03/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Simran-Keshri03/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Simran-Keshri03/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Simran-Keshri03/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Simran-Keshri03/LeetCode/tree/master/0455-assign-cookies) |
@@ -251,6 +252,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0268-missing-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Simran-Keshri03/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Simran-Keshri03/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Simran-Keshri03/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/Simran-Keshri03/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Simran-Keshri03/LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Simran-Keshri03/LeetCode/tree/master/0409-longest-palindrome) |
@@ -287,6 +289,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0268-missing-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Simran-Keshri03/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0367-valid-perfect-square](https://github.com/Simran-Keshri03/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Simran-Keshri03/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Simran-Keshri03/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0492-construct-the-rectangle](https://github.com/Simran-Keshri03/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/0509-fibonacci-number) |
@@ -361,6 +364,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Simran-Keshri03/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Simran-Keshri03/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Simran-Keshri03/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Simran-Keshri03/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0707-design-linked-list](https://github.com/Simran-Keshri03/LeetCode/tree/master/0707-design-linked-list) |
 ## Recursion
@@ -632,4 +636,8 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Simran-Keshri03/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Simran-Keshri03/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
