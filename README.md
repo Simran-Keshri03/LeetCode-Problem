@@ -49,6 +49,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Simran-Keshri03/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Simran-Keshri03/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Simran-Keshri03/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Simran-Keshri03/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Simran-Keshri03/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Simran-Keshri03/LeetCode/tree/master/0204-count-primes) |
@@ -137,6 +138,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0072-edit-distance](https://github.com/Simran-Keshri03/LeetCode/tree/master/0072-edit-distance) |
 | [0119-pascals-triangle-ii](https://github.com/Simran-Keshri03/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Simran-Keshri03/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/Simran-Keshri03/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Simran-Keshri03/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Simran-Keshri03/LeetCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/0509-fibonacci-number) |
