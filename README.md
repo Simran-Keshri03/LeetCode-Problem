@@ -69,6 +69,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0506-relative-ranks](https://github.com/Simran-Keshri03/LeetCode/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/Simran-Keshri03/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Simran-Keshri03/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Simran-Keshri03/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/Simran-Keshri03/LeetCode/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Simran-Keshri03/LeetCode/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/Simran-Keshri03/LeetCode/tree/master/0661-image-smoother) |
@@ -266,6 +267,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0451-sort-characters-by-frequency](https://github.com/Simran-Keshri03/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/Simran-Keshri03/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Simran-Keshri03/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Simran-Keshri03/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Simran-Keshri03/LeetCode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Simran-Keshri03/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0997-find-the-town-judge](https://github.com/Simran-Keshri03/LeetCode/tree/master/0997-find-the-town-judge) |
@@ -434,6 +436,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0451-sort-characters-by-frequency](https://github.com/Simran-Keshri03/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Simran-Keshri03/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/Simran-Keshri03/LeetCode/tree/master/0541-reverse-string-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Simran-Keshri03/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/Simran-Keshri03/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/Simran-Keshri03/LeetCode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Simran-Keshri03/LeetCode/tree/master/0796-rotate-string) |
