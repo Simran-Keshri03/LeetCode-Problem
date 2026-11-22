@@ -453,6 +453,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Simran-Keshri03/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Simran-Keshri03/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Simran-Keshri03/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Simran-Keshri03/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Simran-Keshri03/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Queue
