@@ -28,6 +28,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Simran-Keshri03/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Simran-Keshri03/LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/Simran-Keshri03/LeetCode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Simran-Keshri03/LeetCode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Simran-Keshri03/LeetCode/tree/master/0036-valid-sudoku) |
@@ -413,6 +414,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0005-longest-palindromic-substring](https://github.com/Simran-Keshri03/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Simran-Keshri03/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Simran-Keshri03/LeetCode/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Simran-Keshri03/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Simran-Keshri03/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Simran-Keshri03/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -546,6 +548,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0692-top-k-frequent-words](https://github.com/Simran-Keshri03/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Backtracking
 |  |
