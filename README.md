@@ -49,6 +49,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0119-pascals-triangle-ii](https://github.com/Simran-Keshri03/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Simran-Keshri03/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Simran-Keshri03/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/Simran-Keshri03/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Simran-Keshri03/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Simran-Keshri03/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -173,6 +174,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0011-container-with-most-water](https://github.com/Simran-Keshri03/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Simran-Keshri03/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Simran-Keshri03/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/Simran-Keshri03/LeetCode/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/Simran-Keshri03/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/Simran-Keshri03/LeetCode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Simran-Keshri03/LeetCode/tree/master/0455-assign-cookies) |
