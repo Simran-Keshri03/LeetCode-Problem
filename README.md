@@ -39,6 +39,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0055-jump-game](https://github.com/Simran-Keshri03/LeetCode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Simran-Keshri03/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Simran-Keshri03/LeetCode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/Simran-Keshri03/LeetCode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Simran-Keshri03/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Simran-Keshri03/LeetCode/tree/master/0075-sort-colors) |
@@ -235,6 +236,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Simran-Keshri03/LeetCode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Simran-Keshri03/LeetCode/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/Simran-Keshri03/LeetCode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Simran-Keshri03/LeetCode/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0867-transpose-matrix) |
@@ -424,6 +426,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0032-longest-valid-parentheses](https://github.com/Simran-Keshri03/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Simran-Keshri03/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Simran-Keshri03/LeetCode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Simran-Keshri03/LeetCode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Simran-Keshri03/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Simran-Keshri03/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Simran-Keshri03/LeetCode/tree/master/0076-minimum-window-substring) |
