@@ -100,6 +100,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Simran-Keshri03/LeetCode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Simran-Keshri03/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Simran-Keshri03/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Simran-Keshri03/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Simran-Keshri03/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Simran-Keshri03/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Simran-Keshri03/LeetCode/tree/master/3731-find-missing-elements) |
@@ -223,6 +224,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Simran-Keshri03/LeetCode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Simran-Keshri03/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Simran-Keshri03/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Simran-Keshri03/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Matrix
 |  |
 | ------- |
@@ -313,6 +315,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0877-stone-game](https://github.com/Simran-Keshri03/LeetCode/tree/master/0877-stone-game) |
 | [1492-the-kth-factor-of-n](https://github.com/Simran-Keshri03/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Simran-Keshri03/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Simran-Keshri03/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Simran-Keshri03/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3871-count-commas-in-range-ii](https://github.com/Simran-Keshri03/LeetCode/tree/master/3871-count-commas-in-range-ii) |
@@ -581,6 +584,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0204-count-primes](https://github.com/Simran-Keshri03/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Simran-Keshri03/LeetCode/tree/master/0258-add-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/Simran-Keshri03/LeetCode/tree/master/1492-the-kth-factor-of-n) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Simran-Keshri03/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Simran-Keshri03/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Union-Find
 |  |
@@ -590,6 +594,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Simran-Keshri03/LeetCode/tree/master/0204-count-primes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Simran-Keshri03/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Depth-First Search
 |  |
 | ------- |
