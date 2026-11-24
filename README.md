@@ -218,6 +218,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Simran-Keshri03/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Simran-Keshri03/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Simran-Keshri03/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Simran-Keshri03/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -258,6 +259,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Simran-Keshri03/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Simran-Keshri03/LeetCode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Simran-Keshri03/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Simran-Keshri03/LeetCode/tree/master/0037-sudoku-solver) |
@@ -429,6 +431,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Simran-Keshri03/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Simran-Keshri03/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Simran-Keshri03/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Simran-Keshri03/LeetCode/tree/master/0008-string-to-integer-atoi) |
