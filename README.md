@@ -69,6 +69,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0239-sliding-window-maximum](https://github.com/Simran-Keshri03/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Simran-Keshri03/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/Simran-Keshri03/LeetCode/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/Simran-Keshri03/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Simran-Keshri03/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -244,6 +245,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0064-minimum-path-sum](https://github.com/Simran-Keshri03/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Simran-Keshri03/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0289-game-of-life](https://github.com/Simran-Keshri03/LeetCode/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0661-image-smoother](https://github.com/Simran-Keshri03/LeetCode/tree/master/0661-image-smoother) |
 | [0867-transpose-matrix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0867-transpose-matrix) |
@@ -255,6 +257,7 @@ My LeetCode problem-solving journey featuring Java solutions for DSA and intervi
 | [0067-add-binary](https://github.com/Simran-Keshri03/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Simran-Keshri03/LeetCode/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/Simran-Keshri03/LeetCode/tree/master/0258-add-digits) |
+| [0289-game-of-life](https://github.com/Simran-Keshri03/LeetCode/tree/master/0289-game-of-life) |
 | [0415-add-strings](https://github.com/Simran-Keshri03/LeetCode/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/Simran-Keshri03/LeetCode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Simran-Keshri03/LeetCode/tree/master/1260-shift-2d-grid) |
